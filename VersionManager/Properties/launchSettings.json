@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VersionManager": {
+      "commandName": "Project",
+      "commandLineArgs": "bugfix"
+    }
+  }
+}
